@@ -23,8 +23,6 @@ You **MUST** use Via 2.0.5, it is not compatible with Via 3. I might fix this do
 
 The normal layer has the Delete button swapped for Insert and the RGB Mode button swapped for Delete
 
-https://github.com/soda3x/k2-qmk
-
 ![Normal Layer](https://github.com/soda3x/k2-qmk/raw/main/norm_layer.png)
 
 ### Fn Layer
