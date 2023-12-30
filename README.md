@@ -10,6 +10,8 @@ See the releases page for the goods
 
 You **MUST** use Via 2.0.5, it is not compatible with Via 3. I might fix this down the track eventually. Via releases are [here](https://github.com/the-via/releases/releases)
 
+Please remember that you will lose Bluetooth capability with this. If you plan on using this long term, it may be worth opening the keyboard and detaching the battery.
+
 ## Instructions
 
 1. Flash `keychron_k2_rgb_ansi_via.bin` with Sonix QMK Flasher, you will need the keyboard in bootloader mode. Two pins need to be bridged, they are located under the spacebar
