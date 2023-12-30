@@ -20,4 +20,6 @@ https://github.com/soda3x/k2-qmk
 
 These are the mappings for when the Fn key is pressed
 
+The number row becomes the Numpad
+
 ![Fn Layer](https://github.com/soda3x/k2-qmk/raw/main/fn_layer.png)
