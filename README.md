@@ -6,7 +6,7 @@ This repo contains bins for QMK for the K2v2 keyboard, flash using Sonix QMK Fla
 
 See the releases page for the goods
 
-## Requirements
+## Foreword
 
 You **MUST** use Via 2.0.5, it is not compatible with Via 3. I might fix this down the track eventually. Via releases are [here](https://github.com/the-via/releases/releases)
 
