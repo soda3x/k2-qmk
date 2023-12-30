@@ -10,7 +10,7 @@ See the releases page for the goods
 
 You **MUST** use Via 2.0.5, it is not compatible with Via 3. I might fix this down the track eventually. Via releases are [here](https://github.com/the-via/releases/releases)
 
-Please remember that you will lose Bluetooth capability with this. If you plan on using this long term, it may be worth opening the keyboard and detaching the battery
+Please keep in mind that you will lose Bluetooth capability with this. If you plan on using this long term, it may be worth opening the keyboard and detaching the battery
 
 ## Instructions
 
@@ -34,3 +34,7 @@ These are the mappings for when the Fn key is pressed
 The number row becomes the Numpad
 
 ![Fn Layer](https://github.com/soda3x/k2-qmk/raw/main/fn_layer.png)
+
+### Other Layouts
+
+Feel free to use your own layout, I just included mine for my ease of access
