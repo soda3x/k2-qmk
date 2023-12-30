@@ -12,7 +12,7 @@ You **MUST** use Via 2.0.5, it is not compatible with Via 3. I might fix this do
 
 Please keep in mind that you will lose Bluetooth capability with this. If you plan on using this long term, it may be worth opening the keyboard and detaching the battery
 
-This is **NOT** compatible with the ISO layout of the K2v2, you can try it but YMMV. It may be better to instead [build the binary yourself](https://www.bradleynewman.dev/tutorials/qmk-on-keychron-k-series-keyboards)
+This is **NOT** compatible with the ISO layout of the K2v2. However, you can [build the binary yourself](https://www.bradleynewman.dev/tutorials/qmk-on-keychron-k-series-keyboards)
 
 ## Instructions
 
