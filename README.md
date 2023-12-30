@@ -1,6 +1,6 @@
 # Keychron K2 QMK custom firmware
 
-This repo contains bins for QMK for the K2v2 keyboard, flash using Sonix QMK Flasher and [this](https://github.com/SonixQMK/qmk_firmware)
+This repo contains bins for QMK for the K2v2 keyboard, flash using Sonix QMK Flasher and [this repo](https://github.com/SonixQMK/qmk_firmware)
 
 ## Binaries
 
