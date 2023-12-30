@@ -8,7 +8,7 @@ See the releases page for the goods
 
 ## Requirements
 
-You **MUST** use Via 2.0.5, it is not compatible with Via 3. I might fix this down the track eventually.
+You **MUST** use Via 2.0.5, it is not compatible with Via 3. I might fix this down the track eventually. Via releases are [here](https://github.com/the-via/releases/releases)
 
 ## Instructions
 
